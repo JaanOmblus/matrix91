@@ -1,0 +1,112 @@
+{
+  "dictionary": [
+    {
+      "id": "1",
+      "tahistus": "LVKK",
+      "selgitus": "Lühiajalise võlgnevuse kattekordaja (Current Ratio; Working Capital Ratio)",
+      "grupp": "Likviidsus"
+    },
+    {
+      "id": "2",
+      "tahistus": "MVK",
+      "selgitus": "Maksevõime kordaja (Quick Ratio; Acid-test Ratio)",
+      "grupp": "Likviidsus"
+    },
+    {
+      "id": "3",
+      "tahistus": "RK",
+      "selgitus": "Rahakordaja (Cash Ratio)",
+      "grupp": "Likviidsus"
+    },
+    {
+      "id": "4",
+      "tahistus": "LLLK",
+      "selgitus": "Lühiajalised laenud / lühiajalised kohustused",
+      "grupp": "Likviidsus"
+    },
+    {
+      "id": "5",
+      "tahistus": "LLVK",
+      "selgitus": "Lühiajalised laenud / varad kokku",
+      "grupp": "Likviidsus"
+    },
+    {
+      "id": "6",
+      "tahistus": "LLOK",
+      "selgitus": "Lühiajalised laenud / omakapital",
+      "grupp": "Likviidsus"
+    },
+    {
+      "id": "7",
+      "tahistus": "VaKK",
+      "selgitus": "Varade käibekordaja (Asset turnover) või ka koguvara käive",
+      "grupp": "Efektiivsus"
+    },
+    {
+      "id": "8",
+      "tahistus": "LVKaK",
+      "selgitus": "Lühiajalise võlgnevuse käibekordaja (Receivables turnover) või ka debitoorse võlgnevuse käibekordaja",
+      "grupp": "Efektiivsus"
+    },
+    {
+      "id": "9",
+      "tahistus": "VKK",
+      "selgitus": "Varude käibekordaja (Inventory turnover ratio) e käibesagedus",
+      "grupp": "Efektiivsus"
+    },
+    {
+      "id": "10",
+      "tahistus": "VK",
+      "selgitus": "Võlakordaja (debt ratio)",
+      "grupp": "Struktuur"
+    },
+    {
+      "id": "11",
+      "tahistus": "KOS",
+      "selgitus": "Kohustuste ja omakapitali suhe (debt-equity ratio, gearing, leverage)",
+      "grupp": "Struktuur"
+    },
+    {
+      "id": "12",
+      "tahistus": "IKK",
+      "selgitus": "Intresside kattekordaja (interest coverage ratio; times-interest-earned (TIE) ratio)",
+      "grupp": "Struktuur"
+    },
+    {
+      "id": "13",
+      "tahistus": "LKKK",
+      "selgitus": "Lühiajalised kohustused / kohustused kokku",
+      "grupp": "Struktuur"
+    },
+    {
+      "id": "14",
+      "tahistus": "PKKK",
+      "selgitus": "Pikaajalised kohustused / kohustused kokku",
+      "grupp": "Struktuur"
+    },
+    {
+      "id": "15",
+      "tahistus": "AKM",
+      "selgitus": "Ärikasumimarginaal (operating margin)",
+      "grupp": "Rentaablus"
+    },
+    {
+      "id": "16",
+      "tahistus": "PKM",
+      "selgitus": "Puhaskasumimarginaal e käiberentaablus (profit margin, net margin, net profit margin)",
+      "grupp": "Rentaablus"
+    },
+    {
+      "id": "17",
+      "tahistus": "ROA",
+      "selgitus": "Varade e kogukapitali puhasrentaablus (return on assets — ROA)",
+      "grupp": "Rentaablus"
+    },
+    {
+      "id": "18",
+      "tahistus": "ROE",
+      "selgitus": "Omakapitali tootlus e puhasrentaablus (return on equity — ROE)",
+      "grupp": "Rentaablus"
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+#chart-gauge, #chart-pie, #chart-column, #chart-line {
+  display: block;
+  min-width: 150px;
+  max-width: 400px;
+  height: 200px;
+  margin: 0 auto;
+}
+
+.tekstselgit {
+  color: rgb(71, 27, 143);
+  font-size: 24px;
+  font-weight: 700;
+  font-family: Arial, Helvetica, sans-serif;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+.tekstselgit2 {
+  color: rgb(71, 27, 143);
+  font-size: 16px;
+  font-weight: 700;
+  font-family: Arial, Helvetica, sans-serif;
+  margin-left: 20px;
+  margin-right: 20px;
+}

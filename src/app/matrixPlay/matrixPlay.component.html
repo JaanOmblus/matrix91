@@ -1,0 +1,32 @@
+<div class="container mt-5">
+  <div class="row">
+      <div class="col-md-12">
+
+          <!---will create button with ternary operator and click function--->
+          <button (click)="onclick()" type="button" class="btn  btn-danger">
+            {{ReadMore?"Read More":"Read Less"}}
+          </button>
+
+          <!--will create if condition my default it will
+            b hide on click it will toggle--->
+          <ng-container *ngIf="visible">
+              <div class="bg-white shadow-sm p-3">
+                  <h4>Hello World</h4>
+                  <p>
+                      Lorem ipsum dolor sit amet, consectetur adipisicing elit. Esse tempore aut molestiae, unde non soluta! A, nesciunt. Earum facere totam error, nam placeat, quia, veritatis aspernatur voluptate vitae fugit odit.
+                  </p>
+                  <!--div id="chart-pie"></div-->
+              </div>
+          </ng-container>
+
+
+
+
+      </div>
+  </div>
+</div>
+
+
+<div class="col-6">
+  <div id="chart-pie"></div>
+  </div>

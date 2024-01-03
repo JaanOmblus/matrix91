@@ -1,0 +1,33 @@
+<!--h2>Kirjutame midagi infoks...</h2-->
+
+
+<button (click)="naitame()" class="md-button">Tehniline selgitus</button>
+<button (click)="naitame2()" class="md-button">Peida selgitus</button>
+
+<div class="vormistus">
+<p>{{kk}}</p>
+</div>
+<!--h3>{{numbriloome()}}</h3-->
+<!--button (click)="numbriloome()" class="md-button">show/hide</button-->
+<!--h3>{{numberstr}}</h3-->
+
+<div class="container">
+
+<button (click)="showData()" class="md-button">Näita andmeid</button>
+<button (click)="showNoData()" class="md-button">Andmed tühjaks</button> 
+<button (click)="reset()" class="md-button">Reset</button>
+<!--hr /-->
+
+<div class="vormistus">
+
+
+<div *ngFor='let item of results'>
+  {{item.title2}}{{item.id}}&nbsp;{{item.title1}} {{item.name}}
+</div>
+<div *ngIf='(results)?.length === 0'>Tabel tühjendatud</div>
+
+
+</div>
+
+</div>
+

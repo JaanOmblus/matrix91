@@ -1,0 +1,32 @@
+
+<div class="tekstselgit">
+<p>Sõnaraamat</p>
+</div>
+
+<div class="tekstselgit2">
+
+  <p>Allpool toodud sõnaraamatu abil on võimalik vaadata suhtarvude tähendust.</p>
+
+</div>
+
+<button (click)="onclick()" type="button" class="nupp">
+  {{ReadMore?"Sõnaraamat":"Peida sõnaraamat"}}
+  </button>
+
+
+<ng-container *ngIf="visible">
+
+  <table id="employees">
+<tr>
+  <th>Lühend</th>
+  <th>Selgitus</th>
+</tr>
+<tr *ngFor="let kovid1 of entriesArray">
+  <td>{{kovid1.tahistus}}</td>
+  <td>{{kovid1.selgitus}}</td>
+  
+</tr>
+</table>
+
+</ng-container>
+<br>

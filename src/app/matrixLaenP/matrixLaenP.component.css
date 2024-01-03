@@ -1,0 +1,61 @@
+.varv5 {
+  color: rgb(71, 27, 143);
+  font-size: 15px;
+  font-weight: 700;
+  font-family: Arial, Helvetica, sans-serif;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+h3{
+  margin-left: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+  margin-bottom: 0px;
+}
+
+h2{
+  margin-left: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+  margin-bottom: -12px;
+}
+
+.bodyClass1{
+  background: rgb(197, 243, 31);
+  margin-left: 20px;
+  margin-right: 400px;
+  padding: 10px;
+  animation-name: liigutaks;
+  animation-duration : 20s;
+  animation-iteration-count : infinite;
+  animation-fill-mode: forwards;
+}
+.bodyClass2{
+  background: red;
+  margin-left: 20px;
+  margin-right: 400px;
+  padding: 10px;
+  animation-name: liigutaks;
+  animation-duration : 20s;
+  animation-iteration-count : infinite;
+  animation-fill-mode: forwards;
+}
+.bodyClass3{
+  background: rgb(54, 214, 54);
+  margin-left: 20px;
+  margin-right: 400px;
+  padding: 10px;
+  animation-name: liigutaks;
+  animation-duration : 20s;
+  animation-iteration-count : infinite;
+  animation-fill-mode: forwards;
+}
+
+@keyframes liigutaks{
+  0% {border-radius : 0 0 0 0 ;}
+   25% {border-radius : 20% 20% 20% 20% ;}
+    50% {border-radius : 30% 30% 30% 30% ; }
+     75% {border-radius : 40% 40% 40% 40% ;}
+      100% {border-radius : 50% 50% 50% 50%;}
+  
+
+}

@@ -1,0 +1,144 @@
+
+<div class="tekstselgit">
+<p>Teie asukoht KOV: {{ vallanimi }}</p>
+</div>
+<!--p>Suhtarv AKM {{ akmF }}</p-->
+<!--p>Suhtarv IKK {{ ikkF }}</p-->
+
+<!--ul>
+<li *ngFor="let arrayValue of arrayObject">
+  {{ arrayValue }}
+</li>
+</ul>
+
+<ul>
+<li *ngFor="let arrayVaartus of oigeKirje">
+  {{ arrayVaartus }}
+</li>
+</ul>
+
+<div *ngFor='let language of dataaa?.languages'>
+{{ getKey(language) }} -> 
+{{ getValue(language) }}
+</div>
+
+<div *ngFor='let ratio of kovValdArray?.ratiosVald'>
+{{ getKey(ratio) }} -> 
+{{ getValue(ratio) }}
+</div>
+
+<p>{{ object() }}</p-->
+
+  
+  <div class="tekstselgit2">
+
+    <p>Alljärgnevalt on võimalik saada informatsiooni selle kohta, millised on suhtarvude mediaanväärtused teie tegevuspiirkonnas.</p>
+
+  </div>
+
+  <button (click)="onclick()" type="button" class="nupp">
+  {{ReadMore?"Likviidsus":"Peida"}}
+  </button>
+
+
+  <ng-container *ngIf="visible">
+
+  <table id="employees">
+  <tr>
+    <th>LVKK</th>
+    <th>MVK</th>
+    <th>RK</th>
+    <th>LLLK</th>
+    <th>LLVK</th>
+    <th>LLOK</th>
+  </tr>
+  <tr *ngFor="let kovid1 of oigeKirje">
+    <td>{{kovid1.LVKK_Median}}</td>
+    <td>{{kovid1.MVK_Median}}</td>
+    <td>{{kovid1.RK_Median}}</td>
+    <td>{{kovid1.LLLK_Median}}</td>
+    <td>{{kovid1.LLVK_Median}}</td>
+    <td>{{kovid1.LLOK_Median}}</td>
+  </tr>
+  </table>
+
+  </ng-container>
+<br>
+
+    <button (click)="onclick2()" type="button" class="nupp">
+    {{ReadMore2?"Efektiivsus":"Peida"}}
+    </button>
+  
+  
+    <ng-container *ngIf="visible2">
+  
+    <table id="employees">
+    <tr>
+      <th>VaKK</th>
+      <th>LVKaK</th>
+      <th>VKK</th>
+    </tr>
+    <tr *ngFor="let kovid2 of oigeKirje">
+      <td>{{kovid2.VaKK_Median}}</td>
+      <td>{{kovid2.LVKaK_Median}}</td>
+      <td>{{kovid2.VKK_Median}}</td>
+    </tr>
+    </table>
+
+    
+    </ng-container>
+    <br>
+
+    <button (click)="onclick3()" type="button" class="nupp">
+      {{ReadMore3?"Struktuur":"Peida"}}
+    </button>
+    <ng-container *ngIf="visible3">
+  
+      <table id="employees">
+      <tr>
+        <th>VK</th>
+        <th>KOS</th>
+        <th>IKK</th>
+        <th>LKKK</th>
+        <th>PKKK</th>
+      </tr>
+      <tr *ngFor="let kovid3 of oigeKirje">
+        <td>{{kovid3.VK_Median}}</td>
+        <td>{{kovid3.KOS_Median}}</td>
+        <td>{{kovid3.IKK_Median}}</td>
+        <td>{{kovid3.LKKKK_Median}}</td>
+        <td>{{kovid3.PKKKK_Median}}</td>
+      </tr>
+      </table>
+  
+      
+      </ng-container>
+
+      <br>
+
+    <button (click)="onclick4()" type="button" class="nupp">
+      {{ReadMore4?"Rentaablus":"Peida"}}
+    </button>
+    <ng-container *ngIf="visible4">
+  
+      <table id="employees">
+      <tr>
+        <th>AKM</th>
+        <th>PKM</th>
+        <th>ROA</th>
+        <th>ROE</th>
+      </tr>
+      <tr *ngFor="let kovid4 of oigeKirje">
+        <td>{{kovid4.AKM_Median}}</td>
+        <td>{{kovid4.PKM_Median}}</td>
+        <td>{{kovid4.ROA_Median}}</td>
+        <td>{{kovid4.ROE_Median}}</td>
+      </tr>
+      </table>
+  
+      
+      </ng-container>
+
+
+
+

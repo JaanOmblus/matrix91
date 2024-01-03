@@ -1,0 +1,42 @@
+<br>
+<br>
+<br>
+<!--div style="width:100%;">
+	<canvas id="myChart" width="700" height="250" #mychart></canvas>
+</div-->
+
+<h3>Katsetus</h3>
+
+<h3>{{sisendmuutuja(numberValue)}}</h3>
+<h3>vv{{numbriloome5()}}</h3>
+<h3>LoemeStoragest{{loemestoragest()}}</h3>
+
+<div>
+  Stringiks: <strong>{{ numberValue }} </strong>
+  <br/>
+  <input type="number" [(ngModel)]="numberValue">
+</div>
+
+<br/>
+
+<div>
+  Stringiks: <strong>{{ textValue }} </strong>
+  <br/>
+  <input type="text" inputmode="numeric" [(ngModel)]="textValue">
+</div>
+
+<br/>
+
+<div>
+  Stringiks: <strong>{{ textNumberValue }} </strong>
+  <br/>
+  <p></p>
+  <input type="number" [(ngModel)]="textNumberValue">
+</div>
+
+<div>
+Stringiks: <strong>{{ textRoboto }} </strong>
+{{textstoragesse()}}
+<p>Sisesta text robotile:</p>
+<input type="text" inputmode="numeric" [(ngModel)]="textRoboto">
+</div>

@@ -1,0 +1,19 @@
+{
+  "kov": [
+    {
+      "id": "1",
+      "kood": "0037",
+      "kovNimi": "Harju maakond"
+    },
+    {
+      "id": "2",
+      "kood": "0039",
+      "kovNimi": "Hiiu maakond"
+    },
+    {
+      "id": "3",
+      "kood": "0045",
+      "kovNimi": "Ida-Viru maakond"
+    }
+  ]
+}

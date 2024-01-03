@@ -1,0 +1,24 @@
+
+<button (click)="onclick()" type="button" class="md-button">
+  {{ReadMore?"Näita lahendust":"Peida lahendus"}}
+</button>
+<br>
+<br>
+
+<ng-container *ngIf="visible">
+
+
+
+<label>    
+  <div class="flashcard" [class.flipped]="flipped" (click)="toggle()">
+      <div class="front">
+        <span>Täiendava sisendina on muudetud laenude osakaalu, s.t. on võetud laenu juurde. Samuti on täiendava sisendina toodud lahendus, et ettevõte käive suureneb. Need sisendid on arvesse võetud ja käesolevas analüüsis sellest lähtutakse.</span>
+    </div>
+      <div class="back">
+      <span>Laenu juurdevõtmine ei ole õige mõte, bilansistruktuuri hinnangut ja laenukoormust arvestades täiendavat laenu juurde võtta ei saa. Samas, kui on võimalik ettevõtte käivet suurendada, siis see on väga toetav ja asjakohane lahendus ning muudab ettevõtte seisu paremaks.</span>
+      <!--div class="back">N   "btn  btn-danger" ow showing the back size {{kirjuta()}}</div-->
+      </div>
+  </div>
+</label>
+
+</ng-container>

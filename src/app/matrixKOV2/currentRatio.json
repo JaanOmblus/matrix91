@@ -1,0 +1,400 @@
+{
+    "ratiosCu":[
+    {
+        "keskmineLVKK": "212.011844346504",
+        "kood": "0430",
+        "nimi": "Lääneranna vald"
+    },
+    {
+        "keskmineLVKK": "173.111383746777",
+        "kood": "0928",
+        "nimi": "Väike-Maarja vald"
+    },
+    {
+        "keskmineLVKK": "149.502620943375",
+        "kood": "0890",
+        "nimi": "Viimsi vald"
+    },
+    {
+        "keskmineLVKK": "120.490095561015",
+        "kood": "0432",
+        "nimi": "Luunja vald"
+    },
+    {
+        "keskmineLVKK": "102.863791584248",
+        "kood": "0353",
+        "nimi": "Kuusalu vald"
+    },
+    {
+        "keskmineLVKK": "100.214937968854",
+        "kood": "6619",
+        "nimi": "Pärnu linn"
+    },
+    {
+        "keskmineLVKK": "96.6720185401552",
+        "kood": "0317",
+        "nimi": "Kohila vald"
+    },
+    {
+        "keskmineLVKK": "77.9961121186139",
+        "kood": "0245",
+        "nimi": "Jõelähtme vald"
+    },
+    {
+        "keskmineLVKK": "76.5214793094957",
+        "kood": "0796",
+        "nimi": "Tartu vald"
+    },
+    {
+        "keskmineLVKK": "75.4001653971832",
+        "kood": "0618",
+        "nimi": "Põltsamaa vald"
+    },
+    {
+        "keskmineLVKK": "72.3058694111332",
+        "kood": "0486",
+        "nimi": "Mustvee vald"
+    },
+    {
+        "keskmineLVKK": "72.273274169392",
+        "kood": "0291",
+        "nimi": "Kastre vald"
+    },
+    {
+        "keskmineLVKK": "66.5098332341083",
+        "kood": "0725",
+        "nimi": "Saue vald"
+    },
+    {
+        "keskmineLVKK": "66.4880143049946",
+        "kood": "0198",
+        "nimi": "Harku vald"
+    },
+    {
+        "keskmineLVKK": "55.1299269097125",
+        "kood": "0732",
+        "nimi": "Setomaa vald"
+    },
+    {
+        "keskmineLVKK": "47.7238375477756",
+        "kood": "0784",
+        "nimi": "Tallinn"
+    },
+    {
+        "keskmineLVKK": "43.9487491789369",
+        "kood": "8151",
+        "nimi": "Tartu linn"
+    },
+    {
+        "keskmineLVKK": "43.5781175451932",
+        "kood": "0736",
+        "nimi": "Sillamäe linn"
+    },
+    {
+        "keskmineLVKK": "43.5196488832073",
+        "kood": "1692",
+        "nimi": "Haapsalu linn"
+    },
+    {
+        "keskmineLVKK": "40.7107199520821",
+        "kood": "0907",
+        "nimi": "Vormsi vald"
+    },
+    {
+        "keskmineLVKK": "37.7912905741166",
+        "kood": "0283",
+        "nimi": "Kambja vald"
+    },
+    {
+        "keskmineLVKK": "37.3034610327639",
+        "kood": "0130",
+        "nimi": "Alutaguse vald"
+    },
+    {
+        "keskmineLVKK": "36.3483593888191",
+        "kood": "0834",
+        "nimi": "Türi vald"
+    },
+    {
+        "keskmineLVKK": "36.2755940144315",
+        "kood": "0897",
+        "nimi": "Viljandi linn"
+    },
+    {
+        "keskmineLVKK": "35.1231226895203",
+        "kood": "0712",
+        "nimi": "Saarde vald"
+    },
+    {
+        "keskmineLVKK": "34.0687392634602",
+        "kood": "0615",
+        "nimi": "Põhja-Sakala vald"
+    },
+    {
+        "keskmineLVKK": "33.9353129220582",
+        "kood": "0661",
+        "nimi": "Rakvere vald"
+    },
+    {
+        "keskmineLVKK": "33.2705772820353",
+        "kood": "0171",
+        "nimi": "Elva vald"
+    },
+    {
+        "keskmineLVKK": "32.8945867190715",
+        "kood": "0855",
+        "nimi": "Valga vald"
+    },
+    {
+        "keskmineLVKK": "32.825475252774",
+        "kood": "0698",
+        "nimi": "Rõuge vald"
+    },
+    {
+        "keskmineLVKK": "32.3568836338923",
+        "kood": "0668",
+        "nimi": "Rapla vald"
+    },
+    {
+        "keskmineLVKK": "31.9750041693662",
+        "kood": "0638",
+        "nimi": "Põhja-Pärnumaa vald"
+    },
+    {
+        "keskmineLVKK": "31.7975793233613",
+        "kood": "0272",
+        "nimi": "Kadrina vald"
+    },
+    {
+        "keskmineLVKK": "29.5242503136597",
+        "kood": "0511",
+        "nimi": "Narva linn"
+    },
+    {
+        "keskmineLVKK": "29.2579882613427",
+        "kood": "0653",
+        "nimi": "Rae vald"
+    },
+    {
+        "keskmineLVKK": "28.6762040969161",
+        "kood": "0714",
+        "nimi": "Saaremaa vald"
+    },
+    {
+        "keskmineLVKK": "27.7570340856673",
+        "kood": "0321",
+        "nimi": "Kohtla-Järve linn"
+    },
+    {
+        "keskmineLVKK": "27.754628991773",
+        "kood": "0141",
+        "nimi": "Anija vald"
+    },
+    {
+        "keskmineLVKK": "27.0636904896828",
+        "kood": "0431",
+        "nimi": "Lääne-Harju vald"
+    },
+    {
+        "keskmineLVKK": "26.9786174702167",
+        "kood": "0303",
+        "nimi": "Kihnu vald"
+    },
+    {
+        "keskmineLVKK": "26.4159497708487",
+        "kood": "0586",
+        "nimi": "Peipsiääre vald"
+    },
+    {
+        "keskmineLVKK": "25.571143261251",
+        "kood": "0446",
+        "nimi": "Maardu linn"
+    },
+    {
+        "keskmineLVKK": "25.498314450366",
+        "kood": "0528",
+        "nimi": "Nõo vald"
+    },
+    {
+        "keskmineLVKK": "25.2691609757848",
+        "kood": "0557",
+        "nimi": "Otepää vald"
+    },
+    {
+        "keskmineLVKK": "24.8825728313064",
+        "kood": "5356",
+        "nimi": "Narva-Jõesuu linn"
+    },
+    {
+        "keskmineLVKK": "24.304129799447",
+        "kood": "0255",
+        "nimi": "Järva vald"
+    },
+    {
+        "keskmineLVKK": "23.9604263030867",
+        "kood": "0142",
+        "nimi": "Antsla vald"
+    },
+    {
+        "keskmineLVKK": "22.5752141937882",
+        "kood": "0305",
+        "nimi": "Kiili vald"
+    },
+    {
+        "keskmineLVKK": "22.2068854145035",
+        "kood": "0899",
+        "nimi": "Viljandi vald"
+    },
+    {
+        "keskmineLVKK": "21.8753110121104",
+        "kood": "0824",
+        "nimi": "Tõrva vald"
+    },
+    {
+        "keskmineLVKK": "20.8059960224856",
+        "kood": "0903",
+        "nimi": "Viru-Nigula vald"
+    },
+    {
+        "keskmineLVKK": "20.0175534562759",
+        "kood": "0792",
+        "nimi": "Tapa vald"
+    },
+    {
+        "keskmineLVKK": "19.8167975015337",
+        "kood": "0719",
+        "nimi": "Saku vald"
+    },
+    {
+        "keskmineLVKK": "19.2934747415398",
+        "kood": "0917",
+        "nimi": "Võru vald"
+    },
+    {
+        "keskmineLVKK": "18.6607870245903",
+        "kood": "0441",
+        "nimi": "Lääne-Nigula vald"
+    },
+    {
+        "keskmineLVKK": "18.0591688501099",
+        "kood": "0708",
+        "nimi": "Räpina vald"
+    },
+    {
+        "keskmineLVKK": "17.7760392956824",
+        "kood": "5860",
+        "nimi": "Paide linn"
+    },
+    {
+        "keskmineLVKK": "17.6366896367994",
+        "kood": "0803",
+        "nimi": "Toila vald"
+    },
+    {
+        "keskmineLVKK": "17.4458398893649",
+        "kood": "0247",
+        "nimi": "Jõgeva vald"
+    },
+    {
+        "keskmineLVKK": "17.2766120392202",
+        "kood": "0919",
+        "nimi": "Võru linn"
+    },
+    {
+        "keskmineLVKK": "16.8879774644414",
+        "kood": "0296",
+        "nimi": "Keila linn"
+    },
+    {
+        "keskmineLVKK": "16.6627432440607",
+        "kood": "0205",
+        "nimi": "Hiiumaa vald"
+    },
+    {
+        "keskmineLVKK": "16.111506540711",
+        "kood": "0502",
+        "nimi": "Märjamaa vald"
+    },
+    {
+        "keskmineLVKK": "16.058608565819",
+        "kood": "0622",
+        "nimi": "Põlva vald"
+    },
+    {
+        "keskmineLVKK": "15.7745283890542",
+        "kood": "0651",
+        "nimi": "Raasiku vald"
+    },
+    {
+        "keskmineLVKK": "15.6303240907407",
+        "kood": "0251",
+        "nimi": "Jõhvi vald"
+    },
+    {
+        "keskmineLVKK": "15.5264157917475",
+        "kood": "0809",
+        "nimi": "Tori vald"
+    },
+    {
+        "keskmineLVKK": "15.3440943594748",
+        "kood": "0442",
+        "nimi": "Lüganuse vald"
+    },
+    {
+        "keskmineLVKK": "14.3872761142539",
+        "kood": "0284",
+        "nimi": "Kanepi vald"
+    },
+    {
+        "keskmineLVKK": "12.5993172544274",
+        "kood": "0663",
+        "nimi": "Rakvere linn"
+    },
+    {
+        "keskmineLVKK": "11.6903482988252",
+        "kood": "0424",
+        "nimi": "Loksa linn"
+    },
+    {
+        "keskmineLVKK": "11.6475332346969",
+        "kood": "0480",
+        "nimi": "Mulgi vald"
+    },
+    {
+        "keskmineLVKK": "11.5113076870334",
+        "kood": "0901",
+        "nimi": "Vinni vald"
+    },
+    {
+        "keskmineLVKK": "11.4990711303049",
+        "kood": "0338",
+        "nimi": "Kose vald"
+    },
+    {
+        "keskmineLVKK": "11.3438484031207",
+        "kood": "0293",
+        "nimi": "Kehtna vald"
+    },
+    {
+        "keskmineLVKK": "10.1612035525456",
+        "kood": "0191",
+        "nimi": "Haljala vald"
+    },
+    {
+        "keskmineLVKK": "9.20449270580347",
+        "kood": "0214",
+        "nimi": "Häädemeeste vald"
+    },
+    {
+        "keskmineLVKK": "6.39222153423404",
+        "kood": "0478",
+        "nimi": "Muhu vald"
+    },
+    {
+        "keskmineLVKK": "3.18769749891903",
+        "kood": "0689",
+        "nimi": "Ruhnu vald"
+    }
+]
+
+}

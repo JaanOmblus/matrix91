@@ -1,0 +1,28 @@
+.varv5 {
+  color: rgb(107, 131, 21);
+  font-size: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+  margin-left: 20px;
+}
+
+h3{
+  margin-left: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+  margin-bottom: 0px;
+}
+
+h2{
+  margin-left: 20px;
+  font-family: Arial, Helvetica, sans-serif;
+  margin-bottom: -12px;
+}
+
+.bodyClass1{
+  background: rgb(197, 243, 31);
+}
+.bodyClass2{
+  background: red;
+}
+.bodyClass3{
+  background: rgb(54, 214, 54);
+}
